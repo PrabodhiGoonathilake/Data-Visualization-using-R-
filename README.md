@@ -1,9 +1,10 @@
-![image](https://github.com/PrabodhiGoonathilake/Data-Visualization-using-R-/assets/155852337/b014c48a-5e4e-4697-b967-133b1370ed85)Objective
+Objective of the assignment 
+
 Main objective of doing this presentation is to decide the best visualisation and summary technique with application to the data set provided “credit66” related to deciding good risk and bad risk of people obtaining loans.
 In order to achieve this objective three methods of visualization and summary techniques are used as follows;
-Decision Tree
-Logistic Binary Regression
-Discriminate methods analysis
+*Decision Tree
+*Logistic Binary Regression
+*Discriminate methods analysis
 
 
 Data set- Interpretation
